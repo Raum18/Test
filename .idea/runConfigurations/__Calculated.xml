@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="__Calculated" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="__Calculated" />
+    <module name="Ser1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
